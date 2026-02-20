@@ -45,16 +45,16 @@ I am actively seeking **entry-level Cloud / DevOps Engineer roles** and enjoy bu
 
 ## 📂 Projects  
 
-### 🌐 Website Deployment on AWS  
+### 🌐 Secure & Automated Linux Web Server Deployment 
 Deployed a production-like website on AWS using EC2, Linux server setup, and networking configuration.  
 
-*(Add repo link here when available)*  
-
+https://github.com/kunalpatil204/automated-linux-web-server.git
 ---
 
 ## 📜 Certifications  
 
-- Introduction to Cloud Computing  
+- Introduction to Cloud Computing (IBM)
+- linux basic to advanced (udemy)
 
 ---
 
